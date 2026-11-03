@@ -1,0 +1,90 @@
+{
+  "schema": 1,
+  "topics": [
+    {
+      "id": "anger",
+      "name": "Colère",
+      "group": "struggles",
+      "icon": "anger"
+    },
+    {
+      "id": "anxiety",
+      "name": "Anxiété",
+      "group": "struggles",
+      "icon": "anxiety"
+    },
+    {
+      "id": "depression",
+      "name": "Dépression",
+      "group": "struggles",
+      "icon": "depression"
+    },
+    {
+      "id": "fear",
+      "name": "Peur",
+      "group": "struggles",
+      "icon": "fear"
+    },
+    {
+      "id": "grief",
+      "name": "Deuil",
+      "group": "struggles",
+      "icon": "grief"
+    },
+    {
+      "id": "loneliness",
+      "name": "Solitude",
+      "group": "struggles",
+      "icon": "loneliness"
+    },
+    {
+      "id": "relationships",
+      "name": "Relations",
+      "group": "people",
+      "icon": "relationships"
+    },
+    {
+      "id": "marriage",
+      "name": "Mariage",
+      "group": "people",
+      "icon": "marriage"
+    },
+    {
+      "id": "parenting",
+      "name": "Parentalité",
+      "group": "people",
+      "icon": "parenting"
+    },
+    {
+      "id": "forgiveness",
+      "name": "Pardon",
+      "group": "people",
+      "icon": "forgiveness"
+    },
+    {
+      "id": "faith",
+      "name": "Foi",
+      "group": "faith",
+      "icon": "faith"
+    },
+    {
+      "id": "hope",
+      "name": "Espérance",
+      "group": "faith",
+      "icon": "hope"
+    },
+    {
+      "id": "prayer",
+      "name": "Prière",
+      "group": "faith",
+      "icon": "prayer"
+    },
+    {
+      "id": "purpose",
+      "name": "Vocation",
+      "group": "faith",
+      "icon": "purpose"
+    }
+  ],
+  "series": []
+}

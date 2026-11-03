@@ -1,0 +1,112 @@
+{
+  "schema": 1,
+  "topics": [
+    {
+      "id": "anger",
+      "name": "Anger",
+      "group": "struggles",
+      "icon": "anger"
+    },
+    {
+      "id": "anxiety",
+      "name": "Anxiety",
+      "group": "struggles",
+      "icon": "anxiety"
+    },
+    {
+      "id": "depression",
+      "name": "Depression",
+      "group": "struggles",
+      "icon": "depression"
+    },
+    {
+      "id": "fear",
+      "name": "Fear",
+      "group": "struggles",
+      "icon": "fear"
+    },
+    {
+      "id": "grief",
+      "name": "Grief",
+      "group": "struggles",
+      "icon": "grief"
+    },
+    {
+      "id": "loneliness",
+      "name": "Loneliness",
+      "group": "struggles",
+      "icon": "loneliness"
+    },
+    {
+      "id": "relationships",
+      "name": "Relationships",
+      "group": "people",
+      "icon": "relationships"
+    },
+    {
+      "id": "marriage",
+      "name": "Marriage",
+      "group": "people",
+      "icon": "marriage"
+    },
+    {
+      "id": "parenting",
+      "name": "Parenting",
+      "group": "people",
+      "icon": "parenting"
+    },
+    {
+      "id": "forgiveness",
+      "name": "Forgiveness",
+      "group": "people",
+      "icon": "forgiveness"
+    },
+    {
+      "id": "faith",
+      "name": "Faith",
+      "group": "faith",
+      "icon": "faith"
+    },
+    {
+      "id": "hope",
+      "name": "Hope",
+      "group": "faith",
+      "icon": "hope"
+    },
+    {
+      "id": "prayer",
+      "name": "Prayer",
+      "group": "faith",
+      "icon": "prayer"
+    },
+    {
+      "id": "purpose",
+      "name": "Purpose",
+      "group": "faith",
+      "icon": "purpose"
+    }
+  ],
+  "series": [
+    {
+      "id": "love-thy-neighbor",
+      "topic": "relationships",
+      "title": "Love thy neighbor",
+      "byline": "Joshua",
+      "description": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud...",
+      "episodes": [
+        {
+          "id": "1",
+          "title": "Love",
+          "message": [
+            "Love is patient, love is kind. It does not envy, it does not boast, it is not proud... It always protects, always trusts, always hopes, always perseveres, Love is patient, love is kind. It does not envy, it does not boast, it is not proud... It always protects, always trusts, always hopes, always perseveres, Love is patient, love is kind. It does not envy, it does not boast, it is not proud... It always protects, always trusts, always hopes, always perseveres, Love is patient, love is kind. It does not envy, it does not boast, it is not proud... It always protects, always trusts, always hopes, always perseveres, Love is patient, love is kind. It does not envy, it does not boast, it is not proud... It always protects, always trusts, always hopes, always perseveres, Love is patient, love is kind. It does not envy, it does not boast, it is not proud... It always protects, always trusts, always hopes, always perseveres"
+          ],
+          "verses": [
+            "1 Corinthians 13:4-7",
+            "John 3:16"
+          ],
+          "prayer": "Lord, i come before uou today"
+        }
+      ]
+    }
+  ]
+}
