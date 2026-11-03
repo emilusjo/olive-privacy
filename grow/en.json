@@ -127,6 +127,26 @@
           "prayer": "in the name of Jesus i come before you."
         }
       ]
+    },
+    {
+      "id": "how-to-better-raise-a-child",
+      "topic": "parenting",
+      "title": "how to better raise a child",
+      "byline": "John",
+      "description": "Parenting is the process of promoting and supporting a child's physical, emotional, social, cognitive, and educational development from infancy into adulthood.",
+      "episodes": [
+        {
+          "id": "1",
+          "title": "how to better raise a child",
+          "message": [
+            "development from infancy into adulthood."
+          ],
+          "verses": [],
+          "video": {
+            "url": "https://www.youtube.com/shorts/SXrIJwqMdyM"
+          }
+        }
+      ]
     }
   ]
 }
