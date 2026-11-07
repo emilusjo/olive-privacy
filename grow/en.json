@@ -129,22 +129,25 @@
       ]
     },
     {
-      "id": "how-to-better-raise-a-child",
-      "topic": "parenting",
-      "title": "how to better raise a child",
-      "byline": "John",
-      "description": "Parenting is the process of promoting and supporting a child's physical, emotional, social, cognitive, and educational development from infancy into adulthood.",
+      "id": "what-does-it-take-to-have-a-successful-m",
+      "topic": "marriage",
+      "title": "What Does It Take To Have a Successful Marriage?",
+      "byline": "Jocelyn Emilus",
+      "description": "In Genesis 2:24 God declares that a man shall leave his father and mother, hold fast to his wife, and the two shall become one flesh. Yet today, we witness countless divorces, separations, and marriages sustained by unhealthy forbearance. Why? What does it truly take to build a successful marriage? Could the answer lie in a foundation we often overlook - honesty?",
       "episodes": [
         {
           "id": "1",
-          "title": "how to better raise a child",
+          "title": "What Does It Take To Have a Successful Marriage?",
           "message": [
-            "development from infancy into adulthood."
+            "1. Dog's Design for Companionship\nFrom the beginning, the Bible tells us that it is not good for man to be alone",
+            "Throughout creation, after God created something, He declared it good. in genesis 1:31, God looked at everything He had made and declared it very good. Yet Genesis 2:28 reveals something significant: God said it was not good for the man to be alone.",
+            "This was not a contradiction. Genesis 2 takes us into the process of creation, before the companionship God intended for humanity and been established.",
+            "From the beginning, human beings were created for relationships and community, not isolation"
           ],
-          "verses": [],
-          "video": {
-            "url": "https://www.youtube.com/shorts/SXrIJwqMdyM"
-          }
+          "verses": [
+            "Genesis 1:31",
+            "Genesis 2:18"
+          ]
         }
       ]
     }

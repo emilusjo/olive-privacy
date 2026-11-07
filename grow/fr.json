@@ -86,24 +86,5 @@
       "icon": "purpose"
     }
   ],
-  "series": [
-    {
-      "id": "la-solitude",
-      "topic": "loneliness",
-      "title": "La Solitude",
-      "byline": "Ronald",
-      "description": "la Solitude est-elle vraiment un signe de non matur.",
-      "episodes": [
-        {
-          "id": "1",
-          "title": "Vive seule",
-          "message": [],
-          "verses": [],
-          "video": {
-            "url": "https://www.youtube.com/watch?v=unZnmCjPJBQ"
-          }
-        }
-      ]
-    }
-  ]
+  "series": []
 }
